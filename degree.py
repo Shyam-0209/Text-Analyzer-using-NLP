@@ -13,6 +13,7 @@ import spacy
 # import en_core_web_lg
 # ner = en_core_web_lg.load()
 # import gensim
+# shyam singh
 import gensim.downloader as gensim_api
 # from sklearn import feature_extraction, manifold
 # from similar import similar

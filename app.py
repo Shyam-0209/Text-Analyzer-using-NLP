@@ -4,6 +4,8 @@
 # # spacy.cli.download("en_core_web_lg")
 # # ner = en_core_web_lg.load()
 
+# # demo for github
+
 import tkinter as tk
 from tkinter import ttk
 from degree import textNER
